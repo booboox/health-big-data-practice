@@ -1,3 +1,0 @@
-model,records_with_lower_sd_than_single_tree,n_validation_records,fraction_with_lower_sd
-Bagging,64,114,0.5614035087719298
-Random forest,50,114,0.43859649122807015

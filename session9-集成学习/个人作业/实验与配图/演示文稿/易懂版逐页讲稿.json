@@ -1,0 +1,117 @@
+{
+  "slides": 16,
+  "notes": [
+    {
+      "slide": 1,
+      "title": "多棵树组合，预测会更好吗",
+      "seconds": 30,
+      "backup": false,
+      "note": "今天我用WDBC数据比较单树、Bagging、随机森林和Boosting。重点看两件事：分类表现有没有改善，以及训练样本变化时预测是否稳定。最后加入逻辑回归和SVM，判断复杂模型是否值得选。"
+    },
+    {
+      "slide": 2,
+      "title": "先保证比较公平",
+      "seconds": 45,
+      "backup": false,
+      "note": "WDBC每条记录代表一个乳腺肿块样本，30个输入特征，预测恶性还是良性。我们用341条训练、114条验证。所有模型使用相同划分；LR和SVM标准化只在各折训练数据拟合。开发集455条做共享五折，未打开锁定测试标签。\n实验来源：WDBC_A/工作单配图，各CSV与Python代码。未读取锁定测试标签。"
+    },
+    {
+      "slide": 3,
+      "title": "单棵树不是越深越好",
+      "seconds": 70,
+      "backup": false,
+      "note": "决策树每次选择一个特征和阈值，尽量把良性和恶性分开。Gini量化节点混杂，越纯越低。树越深分得越细，所以训练成绩提高，但也可能记住噪声。本次深度3验证准确率97.37%；不限深度训练100%，验证96.49%。\n转场：可以用多棵不同的树来减少波动吗？\n实验来源：WDBC_A/工作单配图，各CSV与Python代码。未读取锁定测试标签。"
+    },
+    {
+      "slide": 4,
+      "title": "Bagging让多棵树学习不同的训练集",
+      "seconds": 65,
+      "backup": false,
+      "note": "Bagging从原训练集有放回重抽样，让每棵树拿到不同训练记录。例子1到5抽成2,2,5,1,2，样本2重复，3和4在袋外。每份仍抽n次，但约36.8%的记录没被抽到，这是大样本平均规律。341条记录模拟1000次平均袋外36.80%。各树独立训练再平均。\n实验来源：WDBC_A/工作单配图，各CSV与Python代码。未读取锁定测试标签。"
+    },
+    {
+      "slide": 5,
+      "title": "树要有差异，平均才更有帮助",
+      "seconds": 60,
+      "backup": false,
+      "note": "平均有助于减少各模型不一致的波动，但共同错误不会因为模型变多就消失。公式中B是树数，rho是误差相关性。B增大第二项减小，仍剩rho sigma²。随机森林每节点随机候选特征，可能让树更不同。右图理论而非WDBC实测rho。\n实验来源：WDBC_A/工作单配图，各CSV与Python代码。未读取锁定测试标签。"
+    },
+    {
+      "slide": 6,
+      "title": "集成的整体表现和稳定性都有改善",
+      "seconds": 90,
+      "backup": false,
+      "note": "先看验证AUC，越接近1表示恶性良性排序越好，不是准确率。单树.9528，Bagging.9984，RF.9971。再对相同30份Bootstrap训练集重训，看固定样本的概率变化。平均SD单树.0855、Bagging.0415、RF.0284；RF平均最低，不代表每个样本都改善。课程基线单树深度4，集成树不限。\n实验来源：WDBC_A/工作单配图，各CSV与Python代码。未读取锁定测试标签。"
+    },
+    {
+      "slide": 7,
+      "title": "AdaBoost让下一棵树更关注错分样本",
+      "seconds": 65,
+      "backup": false,
+      "note": "先训练一棵树，查看哪些记录错，再提高错分记录在下一轮训练的权重。真实第一轮错23条，归一化后错误7.41倍、正确.54倍。后树使用前树产生的权重，因此顺序依赖。不是只保留错分样本，也可能关注错标和噪声。完整更新公式放备答。\n实验来源：WDBC_A/工作单配图，各CSV与Python代码。未读取锁定测试标签。"
+    },
+    {
+      "slide": 8,
+      "title": "梯度提升根据概率差距决定调整方向",
+      "seconds": 80,
+      "backup": false,
+      "note": "梯度提升不仅看对错，还看概率离真值有多远。二分类logloss的负梯度为y-p，本页标签0/1。y1 p.7时+.3，希望提高恶性原始分数；y0 p.3时-.3，希望降低。两例都已分类正确，但仍有非零梯度。新树近似拟合梯度，再乘学习率加到累积模型，叶子还根据损失更新。完整损失与更新公式见备答。\n实验来源：WDBC_A/工作单配图，各CSV与Python代码。未读取锁定测试标签。"
+    },
+    {
+      "slide": 9,
+      "title": "Boosting也不是训练越久越好",
+      "seconds": 60,
+      "backup": false,
+      "note": "主图learning_rate.1、depth3。训练logloss持续下降，验证83轮最低.0733，500轮.1617，AUC约.997。说明概率可能过于自信，排序却变化不大。用验证指标或早停定轮数。本次事后检查，不假称自动早停。\n实验来源：WDBC_A/工作单配图，各CSV与Python代码。未读取锁定测试标签。"
+    },
+    {
+      "slide": 10,
+      "title": "加入简单模型后，集成没有继续领先",
+      "seconds": 75,
+      "backup": false,
+      "note": "逻辑回归CV AUC .9942±.0099，SVM .9928±.0096，RF .9893±.0100，GB .9883±.0125。LR性能好解释成本相对低，因此优先LR保留SVM。LR-RF均值差.0049小于约.01折间SD，但不是显著性检验，不说稳定优越。固定验证与CV共享开发集，SVM验证全对不证明未来零错。LR重训稳定性未比较。\n实验来源：WDBC_A/工作单配图，各CSV与Python代码。未读取锁定测试标签。"
+    },
+    {
+      "slide": 11,
+      "title": "最后的选择与结论边界",
+      "seconds": 50,
+      "backup": false,
+      "note": "第一集成改善本次单树的AUC和平均预测SD；第二没有胜过所有简单基线，暂选LR保留SVM；第三结论限当前开发数据。训练重抽样SD不是个体风险区间，固定模型指标区间未算，不能推断新医院。若独立队列显示集成有足够且可重复收益，则改变选择。结束。\n实验来源：WDBC_A/工作单配图，各CSV与Python代码。未读取锁定测试标签。"
+    },
+    {
+      "slide": 12,
+      "title": "备答  硬投票与软投票为何不同",
+      "seconds": 0,
+      "backup": true,
+      "note": "工作单B四样本为人为示例，不是WDBC实测输出。硬票1,1,1,0；平均概率.65,.4833,.6333,.3667；软票1,0,1,0。样本B硬票错软票对，但不证明软票总更好。"
+    },
+    {
+      "slide": 13,
+      "title": "备答  切分收益与AdaBoost完整定义",
+      "seconds": 0,
+      "backup": true,
+      "note": "Gini切分收益为父节点不纯度减左右样本数加权不纯度。AdaBoost权重每轮已归一化，ε=sumw I错；α=.5ln((1-ε)/ε)，假设0<ε<.5。最终符号判定各学习器α加权和。主文和本页都使用相同显式离散二分类定义。方差公式展开可由Var平均=1/B²[sumVar+2sumCov]得到。"
+    },
+    {
+      "slide": 14,
+      "title": "备答  OOB只使用未见过该记录的树",
+      "seconds": 0,
+      "backup": true,
+      "note": "对训练记录i，仅用未抽到i的树平均概率，再对比真值计算误差。100棵Bagging，每记录21到52棵OOB树，均36.8。OOB AUC.9826，验证.9984。两评价记录和树数不同，不应要求相等；反复OOB选参也有选择偏差，不可替代测试或外部验证。存在分组时按行OOB可能泄漏。\n实验来源：WDBC_A/工作单配图，各CSV与Python代码。未读取锁定测试标签。"
+    },
+    {
+      "slide": 15,
+      "title": "备答  重要性排名受相关特征影响",
+      "seconds": 0,
+      "backup": true,
+      "note": "同一个100棵RF训练不纯度与验证50次置换重要性，指标AUC。worst perimeter MDI第2，置换第16，均下降约-.00004。相关尺寸特征可替代。训练集30特征中21对|r|>.9。低置换不等于无用，负值不等于保护效应，均非因果。\n实验来源：WDBC_A/工作单配图，各CSV与Python代码。未读取锁定测试标签。"
+    },
+    {
+      "slide": 16,
+      "title": "备答  梯度提升树的不同实现",
+      "seconds": 0,
+      "backup": true,
+      "note": "共同框架F_t=F_t-1+η f_t。sklearn传统GB拟合负梯度，XGBoost使用梯度Hessian和复杂度正则；LightGBM直方图+leafwise，GOSS可选，EFB互斥特征捆绑。sklearn另有HistGradientBoosting支持NaN；特性非库独占，不进行性能或速度排名。\n来源：https://scikit-learn.org/stable/modules/ensemble.html\nhttps://xgboost.readthedocs.io/en/stable/tutorials/model.html\nhttps://lightgbm.readthedocs.io/en/latest/Features.html\nhttps://lightgbm.readthedocs.io/en/latest/Parameters.html#data_sample_strategy\nKe et al. NeurIPS 2017. https://proceedings.neurips.cc/paper/2017/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html"
+    }
+  ]
+}

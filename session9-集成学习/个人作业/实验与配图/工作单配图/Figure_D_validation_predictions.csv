@@ -1,0 +1,343 @@
+model,sample_id,malignant,probability
+Single tree,WDBC-026,1,1.0
+Single tree,WDBC-373,1,1.0
+Single tree,WDBC-399,0,0.010101010101010102
+Single tree,WDBC-426,0,0.010101010101010102
+Single tree,WDBC-017,1,1.0
+Single tree,WDBC-051,0,0.010101010101010102
+Single tree,WDBC-481,0,0.010101010101010102
+Single tree,WDBC-345,0,0.010101010101010102
+Single tree,WDBC-565,1,1.0
+Single tree,WDBC-533,0,0.010101010101010102
+Single tree,WDBC-023,1,1.0
+Single tree,WDBC-500,1,1.0
+Single tree,WDBC-559,0,0.010101010101010102
+Single tree,WDBC-214,1,1.0
+Single tree,WDBC-464,0,0.010101010101010102
+Single tree,WDBC-429,0,0.010101010101010102
+Single tree,WDBC-514,0,0.0
+Single tree,WDBC-221,0,0.010101010101010102
+Single tree,WDBC-418,1,1.0
+Single tree,WDBC-414,0,0.0
+Single tree,WDBC-453,0,0.010101010101010102
+Single tree,WDBC-075,0,0.010101010101010102
+Single tree,WDBC-025,1,1.0
+Single tree,WDBC-380,1,1.0
+Single tree,WDBC-091,0,0.010101010101010102
+Single tree,WDBC-408,0,0.010101010101010102
+Single tree,WDBC-223,0,0.010101010101010102
+Single tree,WDBC-009,1,1.0
+Single tree,WDBC-184,0,0.010101010101010102
+Single tree,WDBC-522,1,1.0
+Single tree,WDBC-396,0,0.010101010101010102
+Single tree,WDBC-323,0,0.010101010101010102
+Single tree,WDBC-239,0,0.3333333333333333
+Single tree,WDBC-193,0,0.010101010101010102
+Single tree,WDBC-555,0,0.010101010101010102
+Single tree,WDBC-452,1,1.0
+Single tree,WDBC-530,0,0.010101010101010102
+Single tree,WDBC-084,1,1.0
+Single tree,WDBC-457,0,0.010101010101010102
+Single tree,WDBC-073,1,1.0
+Single tree,WDBC-442,1,1.0
+Single tree,WDBC-168,1,1.0
+Single tree,WDBC-400,0,0.010101010101010102
+Single tree,WDBC-199,1,1.0
+Single tree,WDBC-143,0,0.010101010101010102
+Single tree,WDBC-327,0,0.010101010101010102
+Single tree,WDBC-384,0,0.010101010101010102
+Single tree,WDBC-428,0,0.010101010101010102
+Single tree,WDBC-106,1,1.0
+Single tree,WDBC-467,0,0.010101010101010102
+Single tree,WDBC-128,1,1.0
+Single tree,WDBC-179,0,0.010101010101010102
+Single tree,WDBC-427,0,0.010101010101010102
+Single tree,WDBC-531,0,0.010101010101010102
+Single tree,WDBC-352,1,1.0
+Single tree,WDBC-476,0,0.010101010101010102
+Single tree,WDBC-516,0,0.010101010101010102
+Single tree,WDBC-271,0,0.010101010101010102
+Single tree,WDBC-377,0,0.010101010101010102
+Single tree,WDBC-437,0,0.010101010101010102
+Single tree,WDBC-552,0,0.010101010101010102
+Single tree,WDBC-053,0,0.010101010101010102
+Single tree,WDBC-124,0,0.010101010101010102
+Single tree,WDBC-359,0,0.010101010101010102
+Single tree,WDBC-157,1,1.0
+Single tree,WDBC-089,0,0.010101010101010102
+Single tree,WDBC-147,1,1.0
+Single tree,WDBC-172,1,0.0
+Single tree,WDBC-330,1,1.0
+Single tree,WDBC-431,1,1.0
+Single tree,WDBC-261,1,1.0
+Single tree,WDBC-242,0,0.010101010101010102
+Single tree,WDBC-072,0,0.010101010101010102
+Single tree,WDBC-287,0,0.010101010101010102
+Single tree,WDBC-281,1,1.0
+Single tree,WDBC-237,1,1.0
+Single tree,WDBC-167,0,0.010101010101010102
+Single tree,WDBC-276,0,0.010101010101010102
+Single tree,WDBC-102,0,0.010101010101010102
+Single tree,WDBC-285,0,0.010101010101010102
+Single tree,WDBC-274,0,0.010101010101010102
+Single tree,WDBC-344,1,1.0
+Single tree,WDBC-228,0,0.0
+Single tree,WDBC-215,1,1.0
+Single tree,WDBC-566,1,1.0
+Single tree,WDBC-393,1,1.0
+Single tree,WDBC-054,1,1.0
+Single tree,WDBC-043,1,1.0
+Single tree,WDBC-096,1,1.0
+Single tree,WDBC-203,1,1.0
+Single tree,WDBC-056,0,0.010101010101010102
+Single tree,WDBC-175,0,0.010101010101010102
+Single tree,WDBC-030,1,1.0
+Single tree,WDBC-305,0,0.010101010101010102
+Single tree,WDBC-508,0,0.010101010101010102
+Single tree,WDBC-534,1,1.0
+Single tree,WDBC-042,1,0.010101010101010102
+Single tree,WDBC-334,0,0.010101010101010102
+Single tree,WDBC-404,0,0.010101010101010102
+Single tree,WDBC-496,0,0.010101010101010102
+Single tree,WDBC-489,0,0.010101010101010102
+Single tree,WDBC-148,0,0.0
+Single tree,WDBC-011,1,1.0
+Single tree,WDBC-113,0,1.0
+Single tree,WDBC-218,0,0.010101010101010102
+Single tree,WDBC-141,0,0.010101010101010102
+Single tree,WDBC-547,0,0.010101010101010102
+Single tree,WDBC-517,1,1.0
+Single tree,WDBC-438,0,0.010101010101010102
+Single tree,WDBC-080,0,0.010101010101010102
+Single tree,WDBC-149,0,1.0
+Single tree,WDBC-119,1,1.0
+Single tree,WDBC-473,0,0.0
+Single tree,WDBC-249,0,0.010101010101010102
+Bagging,WDBC-026,1,1.0
+Bagging,WDBC-373,1,0.92
+Bagging,WDBC-399,0,0.0
+Bagging,WDBC-426,0,0.0
+Bagging,WDBC-017,1,0.99
+Bagging,WDBC-051,0,0.0
+Bagging,WDBC-481,0,0.0
+Bagging,WDBC-345,0,0.0
+Bagging,WDBC-565,1,1.0
+Bagging,WDBC-533,0,0.03
+Bagging,WDBC-023,1,0.84
+Bagging,WDBC-500,1,1.0
+Bagging,WDBC-559,0,0.02
+Bagging,WDBC-214,1,0.89
+Bagging,WDBC-464,0,0.0
+Bagging,WDBC-429,0,0.0
+Bagging,WDBC-514,0,0.23
+Bagging,WDBC-221,0,0.0
+Bagging,WDBC-418,1,1.0
+Bagging,WDBC-414,0,0.44
+Bagging,WDBC-453,0,0.07
+Bagging,WDBC-075,0,0.0
+Bagging,WDBC-025,1,1.0
+Bagging,WDBC-380,1,0.58
+Bagging,WDBC-091,0,0.01
+Bagging,WDBC-408,0,0.04
+Bagging,WDBC-223,0,0.0
+Bagging,WDBC-009,1,0.89
+Bagging,WDBC-184,0,0.0
+Bagging,WDBC-522,1,1.0
+Bagging,WDBC-396,0,0.0
+Bagging,WDBC-323,0,0.0
+Bagging,WDBC-239,0,0.2
+Bagging,WDBC-193,0,0.02
+Bagging,WDBC-555,0,0.09
+Bagging,WDBC-452,1,1.0
+Bagging,WDBC-530,0,0.0
+Bagging,WDBC-084,1,1.0
+Bagging,WDBC-457,0,0.25
+Bagging,WDBC-073,1,1.0
+Bagging,WDBC-442,1,0.98
+Bagging,WDBC-168,1,1.0
+Bagging,WDBC-400,0,0.0
+Bagging,WDBC-199,1,1.0
+Bagging,WDBC-143,0,0.0
+Bagging,WDBC-327,0,0.0
+Bagging,WDBC-384,0,0.0
+Bagging,WDBC-428,0,0.0
+Bagging,WDBC-106,1,0.81
+Bagging,WDBC-467,0,0.01
+Bagging,WDBC-128,1,0.97
+Bagging,WDBC-179,0,0.0
+Bagging,WDBC-427,0,0.0
+Bagging,WDBC-531,0,0.0
+Bagging,WDBC-352,1,1.0
+Bagging,WDBC-476,0,0.0
+Bagging,WDBC-516,0,0.0
+Bagging,WDBC-271,0,0.0
+Bagging,WDBC-377,0,0.18
+Bagging,WDBC-437,0,0.0
+Bagging,WDBC-552,0,0.01
+Bagging,WDBC-053,0,0.0
+Bagging,WDBC-124,0,0.02
+Bagging,WDBC-359,0,0.06
+Bagging,WDBC-157,1,1.0
+Bagging,WDBC-089,0,0.0
+Bagging,WDBC-147,1,0.53
+Bagging,WDBC-172,1,0.86
+Bagging,WDBC-330,1,0.83
+Bagging,WDBC-431,1,0.97
+Bagging,WDBC-261,1,1.0
+Bagging,WDBC-242,0,0.01
+Bagging,WDBC-072,0,0.0
+Bagging,WDBC-287,0,0.0
+Bagging,WDBC-281,1,1.0
+Bagging,WDBC-237,1,1.0
+Bagging,WDBC-167,0,0.0
+Bagging,WDBC-276,0,0.25
+Bagging,WDBC-102,0,0.0
+Bagging,WDBC-285,0,0.01
+Bagging,WDBC-274,0,0.0
+Bagging,WDBC-344,1,1.0
+Bagging,WDBC-228,0,0.29
+Bagging,WDBC-215,1,0.95
+Bagging,WDBC-566,1,1.0
+Bagging,WDBC-393,1,1.0
+Bagging,WDBC-054,1,0.99
+Bagging,WDBC-043,1,1.0
+Bagging,WDBC-096,1,1.0
+Bagging,WDBC-203,1,1.0
+Bagging,WDBC-056,0,0.0
+Bagging,WDBC-175,0,0.0
+Bagging,WDBC-030,1,0.84
+Bagging,WDBC-305,0,0.0
+Bagging,WDBC-508,0,0.01
+Bagging,WDBC-534,1,1.0
+Bagging,WDBC-042,1,0.38
+Bagging,WDBC-334,0,0.0
+Bagging,WDBC-404,0,0.01
+Bagging,WDBC-496,0,0.02
+Bagging,WDBC-489,0,0.0
+Bagging,WDBC-148,0,0.14
+Bagging,WDBC-011,1,0.67
+Bagging,WDBC-113,0,0.61
+Bagging,WDBC-218,0,0.0
+Bagging,WDBC-141,0,0.0
+Bagging,WDBC-547,0,0.0
+Bagging,WDBC-517,1,1.0
+Bagging,WDBC-438,0,0.0
+Bagging,WDBC-080,0,0.0
+Bagging,WDBC-149,0,0.43
+Bagging,WDBC-119,1,1.0
+Bagging,WDBC-473,0,0.31
+Bagging,WDBC-249,0,0.16
+Random forest,WDBC-026,1,0.99
+Random forest,WDBC-373,1,0.93
+Random forest,WDBC-399,0,0.0
+Random forest,WDBC-426,0,0.01
+Random forest,WDBC-017,1,0.88
+Random forest,WDBC-051,0,0.0
+Random forest,WDBC-481,0,0.0
+Random forest,WDBC-345,0,0.01
+Random forest,WDBC-565,1,1.0
+Random forest,WDBC-533,0,0.05
+Random forest,WDBC-023,1,0.93
+Random forest,WDBC-500,1,1.0
+Random forest,WDBC-559,0,0.12
+Random forest,WDBC-214,1,0.88
+Random forest,WDBC-464,0,0.01
+Random forest,WDBC-429,0,0.0
+Random forest,WDBC-514,0,0.22
+Random forest,WDBC-221,0,0.0
+Random forest,WDBC-418,1,1.0
+Random forest,WDBC-414,0,0.47
+Random forest,WDBC-453,0,0.02
+Random forest,WDBC-075,0,0.0
+Random forest,WDBC-025,1,1.0
+Random forest,WDBC-380,1,0.5
+Random forest,WDBC-091,0,0.05
+Random forest,WDBC-408,0,0.03
+Random forest,WDBC-223,0,0.0
+Random forest,WDBC-009,1,0.85
+Random forest,WDBC-184,0,0.0
+Random forest,WDBC-522,1,1.0
+Random forest,WDBC-396,0,0.0
+Random forest,WDBC-323,0,0.0
+Random forest,WDBC-239,0,0.22
+Random forest,WDBC-193,0,0.03
+Random forest,WDBC-555,0,0.09
+Random forest,WDBC-452,1,1.0
+Random forest,WDBC-530,0,0.0
+Random forest,WDBC-084,1,1.0
+Random forest,WDBC-457,0,0.12
+Random forest,WDBC-073,1,1.0
+Random forest,WDBC-442,1,0.99
+Random forest,WDBC-168,1,0.98
+Random forest,WDBC-400,0,0.0
+Random forest,WDBC-199,1,0.99
+Random forest,WDBC-143,0,0.0
+Random forest,WDBC-327,0,0.0
+Random forest,WDBC-384,0,0.01
+Random forest,WDBC-428,0,0.01
+Random forest,WDBC-106,1,0.85
+Random forest,WDBC-467,0,0.05
+Random forest,WDBC-128,1,0.96
+Random forest,WDBC-179,0,0.02
+Random forest,WDBC-427,0,0.0
+Random forest,WDBC-531,0,0.02
+Random forest,WDBC-352,1,0.99
+Random forest,WDBC-476,0,0.0
+Random forest,WDBC-516,0,0.01
+Random forest,WDBC-271,0,0.0
+Random forest,WDBC-377,0,0.17
+Random forest,WDBC-437,0,0.0
+Random forest,WDBC-552,0,0.06
+Random forest,WDBC-053,0,0.01
+Random forest,WDBC-124,0,0.07
+Random forest,WDBC-359,0,0.05
+Random forest,WDBC-157,1,1.0
+Random forest,WDBC-089,0,0.0
+Random forest,WDBC-147,1,0.46
+Random forest,WDBC-172,1,0.65
+Random forest,WDBC-330,1,0.85
+Random forest,WDBC-431,1,0.92
+Random forest,WDBC-261,1,1.0
+Random forest,WDBC-242,0,0.01
+Random forest,WDBC-072,0,0.02
+Random forest,WDBC-287,0,0.0
+Random forest,WDBC-281,1,1.0
+Random forest,WDBC-237,1,1.0
+Random forest,WDBC-167,0,0.01
+Random forest,WDBC-276,0,0.14
+Random forest,WDBC-102,0,0.0
+Random forest,WDBC-285,0,0.01
+Random forest,WDBC-274,0,0.01
+Random forest,WDBC-344,1,1.0
+Random forest,WDBC-228,0,0.25
+Random forest,WDBC-215,1,0.93
+Random forest,WDBC-566,1,1.0
+Random forest,WDBC-393,1,1.0
+Random forest,WDBC-054,1,0.97
+Random forest,WDBC-043,1,1.0
+Random forest,WDBC-096,1,1.0
+Random forest,WDBC-203,1,1.0
+Random forest,WDBC-056,0,0.0
+Random forest,WDBC-175,0,0.0
+Random forest,WDBC-030,1,0.9
+Random forest,WDBC-305,0,0.0
+Random forest,WDBC-508,0,0.0
+Random forest,WDBC-534,1,1.0
+Random forest,WDBC-042,1,0.24
+Random forest,WDBC-334,0,0.0
+Random forest,WDBC-404,0,0.01
+Random forest,WDBC-496,0,0.07
+Random forest,WDBC-489,0,0.02
+Random forest,WDBC-148,0,0.28
+Random forest,WDBC-011,1,0.74
+Random forest,WDBC-113,0,0.57
+Random forest,WDBC-218,0,0.01
+Random forest,WDBC-141,0,0.01
+Random forest,WDBC-547,0,0.0
+Random forest,WDBC-517,1,1.0
+Random forest,WDBC-438,0,0.04
+Random forest,WDBC-080,0,0.0
+Random forest,WDBC-149,0,0.4
+Random forest,WDBC-119,1,1.0
+Random forest,WDBC-473,0,0.36
+Random forest,WDBC-249,0,0.13

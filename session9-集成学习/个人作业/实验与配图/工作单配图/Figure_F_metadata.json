@@ -1,0 +1,18 @@
+{
+  "sklearn": "1.9.1",
+  "seed": 1010,
+  "train_n": 341,
+  "validation_n": 114,
+  "development_cv_n": 455,
+  "cv": "shared StratifiedKFold(5, shuffle=True, random_state=1010)",
+  "scaling": "StandardScaler inside LR/SVM pipelines; fit only on each training fold",
+  "parameters": {
+    "Logistic regression": "Pipeline(steps=[('standardscaler', StandardScaler()),\n                ('logisticregression',\n                 LogisticRegression(max_iter=5000, random_state=1010))])",
+    "RBF-SVM": "Pipeline(steps=[('standardscaler', StandardScaler()),\n                ('svc', SVC(C=1, random_state=1010))])",
+    "Random forest": "RandomForestClassifier(n_jobs=1, random_state=1010)",
+    "Gradient boosting": "GradientBoostingClassifier(random_state=1010)"
+  },
+  "test_used": false,
+  "cv_caveat": "Preset comparison after earlier exploratory inspection of the same development data; not an independent external estimate.",
+  "sd_ddof": 1
+}

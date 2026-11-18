@@ -10,3 +10,8 @@
 - 根目录 `.docx`、`.md`：工作单、证据包及其他课程材料。
 
 原资料说明见 [README-original.md](README-original.md)。原资料的制作、审核目录及缓存未纳入仓库，相关制作说明可能指向未收录文件。
+
+## 代码与 AI 对话
+
+- [code/](code/)：相关代码入口、来源和使用说明。
+- [ai-conversations/](ai-conversations/)：真实课程对话归档，缺失时明确标记待补充。

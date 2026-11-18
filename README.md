@@ -20,6 +20,8 @@ health-big-data-practice/
 ├── slides/                       # 课件（或材料位置说明）
 ├── data/                         # 数据与来源说明
 ├── homework/                     # 个人作业与实验记录
+├── code/                         # 相关代码入口与说明
+├── ai-conversations/             # AI 对话记录（缺失时标注待补充）
 ├── notebook/ 或 notebooks/       # 实验 Notebook（按原包保留）
 ├── assets/                       # 图表、证据表等（如有）
 └── 课程工作单、证据包及其他材料
@@ -49,3 +51,19 @@ health-big-data-practice/
 ## 使用方法
 
 进入相应课程目录查看 `README.md`。如需运行 Python 实验，按该课 `requirements.txt` 安装依赖，并从相应 Notebook 所在目录打开文件。个人作业统一放入该课 `homework/`。
+
+## 代码与 AI 对话记录
+
+各课均新增 `code/`，提供课程相关 Python 代码入口及来源说明。原 Notebook 与脚本保留原位，个人实验文件仍在 `homework/`；课程示例与个人作业分别说明。
+
+| 课程 | 相关代码 | AI 对话 |
+| --- | --- | --- |
+| [02-data-types](02-data-types/) | [code](02-data-types/code/) | [ai-conversations](02-data-types/ai-conversations/)（待补充真实记录） |
+| [03-dimensionality-reduction](03-dimensionality-reduction/) | [code](03-dimensionality-reduction/code/) | [ai-conversations](03-dimensionality-reduction/ai-conversations/)（待补充真实记录） |
+| [06-multiple-testing](06-multiple-testing/) | [code](06-multiple-testing/code/) | [ai-conversations](06-multiple-testing/ai-conversations/)（待补充真实记录） |
+| [07-naive-bayes](07-naive-bayes/) | [code](07-naive-bayes/code/) | [ai-conversations](07-naive-bayes/ai-conversations/)（待补充真实记录） |
+| [08-linear-models](08-linear-models/) | [code](08-linear-models/code/) | [ai-conversations](08-linear-models/ai-conversations/)（已归档可读取原文） |
+| [09-svm](09-svm/) | [code](09-svm/code/) | [ai-conversations](09-svm/ai-conversations/)（已归档可读取原文） |
+| [10-ensemble](10-ensemble/) | [code](10-ensemble/code/) | [ai-conversations](10-ensemble/ai-conversations/)（已归档可读取原文） |
+
+AI 对话仅收录已取得的真实用户消息和 AI 对外回复，不含内部推理、工具日志及附件正文。聊天标题中的数字与资料包课次不同，归档按实际主题对应。

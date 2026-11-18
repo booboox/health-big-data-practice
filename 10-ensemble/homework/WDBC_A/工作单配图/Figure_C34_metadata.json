@@ -1,0 +1,11 @@
+{
+  "sklearn": "1.9.1",
+  "seed": 1010,
+  "n_estimators": 100,
+  "base_tree_max_depth": null,
+  "max_features": 1.0,
+  "oob_tree_count_min": 21,
+  "oob_tree_count_mean": 36.79765395894428,
+  "oob_tree_count_max": 52,
+  "test_set_used": false
+}

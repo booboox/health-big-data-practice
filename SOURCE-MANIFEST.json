@@ -1,0 +1,1631 @@
+{
+  "description": "课程压缩包中所收录原文件的来源、目标路径与 SHA-256；不包含额外复制的个人作业。",
+  "files": [
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "v2_pbl-data-types-student-worksheet.docx",
+      "destination": "02-data-types/v2_pbl-data-types-student-worksheet.docx",
+      "sha256": "2d857ac6de8a0e38afdfaec2c35380853490de164cc9a4cd68360014133da870"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/analysis-design.json",
+      "destination": "02-data-types/assets/pbl-understanding-data/analysis-design.json",
+      "sha256": "6bff87ca166b120c48fb9f61113b882aa55d9d8871fcac8e8fa091d8e3d9cb42"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/dataset-summary.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/dataset-summary.csv",
+      "sha256": "22666f86733dabce8fe1885327f14f51aaa15f4acf224a801d4f4d437252bf51"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/heart-disease-four-site.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/heart-disease-four-site.csv",
+      "sha256": "1bdd814c922b6fa186c4de8dee8a42b7f63d287c40942644454844318d988c3c"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-b-data-characteristics.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-b-data-characteristics.csv",
+      "sha256": "77831ab403a0d8ad189bc2e8e817b8873b51fbffcd750718a0de09994cccf71e"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-b-data-dictionary.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-b-data-dictionary.csv",
+      "sha256": "37ea7dba30daf84e04b3736837557eaecff247a49e028eb478872705d27de5e2"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-b-measurement-scale-cases.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-b-measurement-scale-cases.csv",
+      "sha256": "8a78a4e7b82654d2f590a9b94acea8db18c1eb14c551f48c1f813c796af1e002"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-b-method-map.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-b-method-map.csv",
+      "sha256": "8f587cb8c05a4a849885a0dad8968e27275577fca0d3ea941e56404cc6402e55"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-b-missingness-by-site.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-b-missingness-by-site.csv",
+      "sha256": "3c12c6c77d35bd70c72d4c759969d8717647650b0ad23ae52544432b4f49234b"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-b-missingness.png",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-b-missingness.png",
+      "sha256": "b4134463275d8254138e89531e94fc57e0e242e127abe7636a16e47968f81bcd"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-b-quality-audit.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-b-quality-audit.csv",
+      "sha256": "c43d85d84de4bef49aceb5361d0f4e7a3dc1140a4a137cb5813dd19f1986ef52"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-b-quality-evidence-boundaries.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-b-quality-evidence-boundaries.csv",
+      "sha256": "c459e6bbf825ffc2d34d8ab61eb82b7d01e29cc2b31832895bcec3fdf50399eb"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-b-structure-types.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-b-structure-types.csv",
+      "sha256": "a74e51713fac4eaeddac7636df19cb25411e580f54f38eb873e25d4b0df430a7"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-b-target-by-site.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-b-target-by-site.csv",
+      "sha256": "c04bf08c227ddd1d217ad36ba3c6f79104206bb52e1cbf99d08af91fa6aed43e"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-aggregation.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-aggregation.csv",
+      "sha256": "a7791cf2cedeef00061a2f4ce8c7cd3cbdb1529e7c66ca35d385d3bb8222fa8c"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-binary-similarity.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-binary-similarity.csv",
+      "sha256": "e312fc2fd4222bb68d703fd392c1aa1a9899315195fb5abe6c4ea489ba9a960f"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-distance-concentration.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-distance-concentration.csv",
+      "sha256": "aee26993e9efb7773607d7e99157f257bfe52841cefa609b6ed393c42b686817"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-distance-sensitivity.png",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-distance-sensitivity.png",
+      "sha256": "85710e6eacf0c7473bb22e2169fde3717606e6dc352794c7a2a78747b9e02eb5"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-feature-options.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-feature-options.csv",
+      "sha256": "b4a9ff572d7ce186c955fccd9cf053a93100c328a119ae316c7cef5f824b3b4d"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-information-measures.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-information-measures.csv",
+      "sha256": "ea4d8dee1bd53a4b5368954c3d3d7403735caec67f40e53aeeca2240b3681364"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-metric-comparison.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-metric-comparison.csv",
+      "sha256": "1d59c92621b8da5bbf0e88ff969f7af87f937bf1194249703b776b8f629ca843"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-mixed-similarity.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-mixed-similarity.csv",
+      "sha256": "02450185cc55336b368f3490c8db44fbe8936e98671eda2970b60b828de1f883"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-neighbor-ranking.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-neighbor-ranking.csv",
+      "sha256": "89b5b91d1b70a2eac14d38b1798a80ea86f3ac2cbb4221d01dd092ad1a66d84b"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-pca-loadings.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-pca-loadings.csv",
+      "sha256": "05a4845e2acaaeb476341aa2063edc0957a1d73743a9ff8660d31c61d7d9e5d1"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-pca-summary.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-pca-summary.csv",
+      "sha256": "0e4d5879818ff979097e54888173bd610097c44e90523c873b2698d0c6a1c550"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-pca.png",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-pca.png",
+      "sha256": "725316f649e64e1c97b3f148792f3ab9a58f32bf5b3128fa6d7f1ecba09390f2"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-sampling-replicates.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-sampling-replicates.csv",
+      "sha256": "215aa9f157fc7baadc0497eaafe013a6e5027d496f0e518be864c275ec1fe742"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-sampling-sensitivity.png",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-sampling-sensitivity.png",
+      "sha256": "586266f7728e469e88a2a214ab15331a637f9750057bfb5f427cfa65256d9423"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-transformation-summary.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-transformation-summary.csv",
+      "sha256": "a13044154d5bdbc1aff3cd2bba5a8d263b3307cbc7a7985958133eea37c256ad"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-transformations.png",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-transformations.png",
+      "sha256": "315ee73d24d587b9bb7f9643ac3bc486d44c37a29116347e10f2687aab09164e"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-c-vector-metrics.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-c-vector-metrics.csv",
+      "sha256": "c7e8d5da9fd984a402fda9ebd91a5e98c97a9708c07af82bf2c6c5a6babc243d"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-d-boundary-checklist.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-d-boundary-checklist.csv",
+      "sha256": "008ef5dcd921fece7c8a96f3af80a9bc4617b791d038643158aba4c77ad2eeeb"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-d-preprocessing-audit.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-d-preprocessing-audit.csv",
+      "sha256": "b3050135cebbc946c190a4ed5ce9c66aa87501abbbaab1410d4d2d80ffe88206"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-d-preprocessing-workflow.png",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-d-preprocessing-workflow.png",
+      "sha256": "dc5e27a55ddedc97af4b7f9496dc8b3b8c920ce03e8cfdd233f4f6074848770b"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "assets/pbl-understanding-data/packet-d-workflow-decision.csv",
+      "destination": "02-data-types/assets/pbl-understanding-data/packet-d-workflow-decision.csv",
+      "sha256": "5e130de1d68c602167f099ee3928e0ae41136077fe39e1bb37ed4197ab665115"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "notebook/pbl-understanding-data-lab.ipynb",
+      "destination": "02-data-types/notebook/pbl-understanding-data-lab.ipynb",
+      "sha256": "06c6a92669cf10ce80fb3e141133f9e8e70367ecaeca2e11081bc1c6e924d53b"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "scripts/pbl-understanding-data-build.py",
+      "destination": "02-data-types/scripts/pbl-understanding-data-build.py",
+      "sha256": "92e92d21ff80194d0f7b3edf343f9e085dea3c829f58bb6372aac362d0fba0c8"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "chap2_data.pptx",
+      "destination": "02-data-types/slides/chap2_data.pptx",
+      "sha256": "e9ed10276cf7a3271deff041b70b7710897d428287046f4136c97a76077603cd"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "pbl-understanding-data-design-rationale.docx",
+      "destination": "02-data-types/pbl-understanding-data-design-rationale.docx",
+      "sha256": "a5f58f18c68bc5acaa1728f1c9a58da4670ae56c76dd51f060356d09d74ff65b"
+    },
+    {
+      "archive": "v2_pbl-data-types-student-worksheet.zip",
+      "source": "pbl-understanding-data-evidence-pack.docx",
+      "destination": "02-data-types/pbl-understanding-data-evidence-pack.docx",
+      "sha256": "fa39e995e175d60ecfd79d5626e6757d8e177bf4ba8e439b4e936c17ac44f46c"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/data/cohort120.npz",
+      "destination": "03-dimensionality-reduction/data/cohort120.npz",
+      "sha256": "6795e8349864b45482f5290dbf9086e72ef1cc8d109c9370a43d6632158219cf"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/data/gene-dictionary.csv",
+      "destination": "03-dimensionality-reduction/data/gene-dictionary.csv",
+      "sha256": "2cfbec132761ac71aaa691343130634210f60d513ce0cd01317fce8fcbb36730"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/data/patient-manifest.csv",
+      "destination": "03-dimensionality-reduction/data/patient-manifest.csv",
+      "sha256": "ff7094c2df8c2c3e6ca27b42b29fb726613d14d2d641f6f003c907da5b509378"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/data/source/README.txt",
+      "destination": "03-dimensionality-reduction/data/source/README.txt",
+      "sha256": "d302231a7d9a6407934b50788a22b4e55e804a95e9a8dd0b4ac3ccc38b2e2c03"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/data/source/samples.soft",
+      "destination": "03-dimensionality-reduction/data/source/samples.soft",
+      "sha256": "0c0016421272f8274e62780d15eea400767c893a28def86919a42a8bf4145616"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/data/source/series.soft",
+      "destination": "03-dimensionality-reduction/data/source/series.soft",
+      "sha256": "412469052dd6a35ba76f88c60c2711c9245c38b0df9d33ecb27bb2d6a44aaa51"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/data/source/source-ledger.json",
+      "destination": "03-dimensionality-reduction/data/source/source-ledger.json",
+      "sha256": "50e0b18aecb9ea3837a5b4dad787e116ff5b905c2116433b233b4941a8dc12a1"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/data/source-metadata.csv",
+      "destination": "03-dimensionality-reduction/data/source-metadata.csv",
+      "sha256": "b3b347abf336515ce0158c3b1bf37d3da85b365fa2d4df98d694501d03272347"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/notebook/pbl-high-dimension-reduction-classroom.ipynb",
+      "destination": "03-dimensionality-reduction/notebook/pbl-high-dimension-reduction-classroom.ipynb",
+      "sha256": "4f6adda105c2ff8204cf28a5d2e1f6a70d797c1c65b2074c309a83859c0ace9d"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/pbl-high-dimension-reduction-evidence-pack.docx",
+      "destination": "03-dimensionality-reduction/pbl-high-dimension-reduction-evidence-pack.docx",
+      "sha256": "b3808e4aee61ddd3ee7ab227d43e5e9761b6574f3a01705889e7994b6e843eb4"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/pbl-high-dimension-reduction-student-worksheet.docx",
+      "destination": "03-dimensionality-reduction/pbl-high-dimension-reduction-student-worksheet.docx",
+      "sha256": "195ab8c1c5ac1bf565bea6de8401788ceb6d69b0a3bf52531860d82c70c0da83"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/readings/cornell-cs4780-lec02-knn-curse-of-dimensionality.pdf",
+      "destination": "03-dimensionality-reduction/readings/cornell-cs4780-lec02-knn-curse-of-dimensionality.pdf",
+      "sha256": "efa5f4d5fbf3cb331fab6766bd8e7cafbe8c3cba39ed6221525ebe867798af06"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/readings/README.md",
+      "destination": "03-dimensionality-reduction/readings/README.md",
+      "sha256": "022409ac9a64bf34b439b9e40f4ac47bd4b6ad1accad89a8ea2d660c24a21610"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/readings/tan-idm2e-appendix-a-b.pdf",
+      "destination": "03-dimensionality-reduction/readings/tan-idm2e-appendix-a-b.pdf",
+      "sha256": "5f340f6f93df42b79268a97c98b8002bcfa79a803c49f4ab5aead538124a420f"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/readings/tan-idm2e-ch02-data.pdf",
+      "destination": "03-dimensionality-reduction/readings/tan-idm2e-ch02-data.pdf",
+      "sha256": "7512479c2a5de5778a05a6249aa1c58f0743d7cf13a808bc02c0716a374e3e32"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/readings/tan-idm2e-ch03-overfitting.pdf",
+      "destination": "03-dimensionality-reduction/readings/tan-idm2e-ch03-overfitting.pdf",
+      "sha256": "8f69fece87eda42ee48752d752b7f375f5da425fb454e65286230258ce322f5b"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/readings/ustc-pca-lecture-zh.pdf",
+      "destination": "03-dimensionality-reduction/readings/ustc-pca-lecture-zh.pdf",
+      "sha256": "c6a044fb98b45b1d95e9180d1ffbfab7cd59d3ebcd8e9a17d98b7d8afdf6672b"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/README.md",
+      "destination": "03-dimensionality-reduction/README-original.md",
+      "sha256": "c9f92fbe5649d4045c90f97eb40342b7cccd1742c66ffec2a04e8806059d1a8c"
+    },
+    {
+      "archive": "student-package-class3.zip",
+      "source": "student-package/requirements.txt",
+      "destination": "03-dimensionality-reduction/requirements.txt",
+      "sha256": "41ff336d50e18ede69d22ae58165a4c3c38b9edeed1519cc0913b6b1adaac9a7"
+    },
+    {
+      "archive": "5-multiple-test.zip",
+      "source": "6. multiple-test/data/leukemia.csv",
+      "destination": "06-multiple-testing/data/leukemia.csv",
+      "sha256": "915bce00295ac470f6bd970a4032730a170a080642a5da53ab0bcb0545156f19"
+    },
+    {
+      "archive": "5-multiple-test.zip",
+      "source": "6. multiple-test/data/openml-metadata.json",
+      "destination": "06-multiple-testing/data/openml-metadata.json",
+      "sha256": "713e446844d5f4b88b1b111b9ded941b93b3868fb2b6ad24c6290b7b601d20ec"
+    },
+    {
+      "archive": "5-multiple-test.zip",
+      "source": "6. multiple-test/data/README.md",
+      "destination": "06-multiple-testing/data/README.md",
+      "sha256": "a56bc683d8d7e0db4fb5cf6a4b09cf5668ba22eb2adc7f59d80e549a7ceabeb8"
+    },
+    {
+      "archive": "5-multiple-test.zip",
+      "source": "6. multiple-test/experiment-design.md",
+      "destination": "06-multiple-testing/experiment-design.md",
+      "sha256": "bb67e1db49d3145d52af83a554ebae21fb0d74f2437ffb4b6b4d87287193924f"
+    },
+    {
+      "archive": "5-multiple-test.zip",
+      "source": "6. multiple-test/multiple-test.md",
+      "destination": "06-multiple-testing/multiple-test.md",
+      "sha256": "692a51adef75cf98b8dffe48845b9316e7cff0093ba27358af4aeb5543f5f65a"
+    },
+    {
+      "archive": "5-multiple-test.zip",
+      "source": "6. multiple-test/notebooks/multiple-test-lab.ipynb",
+      "destination": "06-multiple-testing/notebooks/multiple-test-lab.ipynb",
+      "sha256": "fbbf29dd78c800f4259dab0b1bf67ec5441888f22c79751e52a43f57259bae41"
+    },
+    {
+      "archive": "5-multiple-test.zip",
+      "source": "6. multiple-test/README.md",
+      "destination": "06-multiple-testing/README-original.md",
+      "sha256": "a84b529389825a38ba8426f711a6d99273deb515e23667b3be5e133a7ec3b5b1"
+    },
+    {
+      "archive": "5-multiple-test.zip",
+      "source": "6. multiple-test/requirements.txt",
+      "destination": "06-multiple-testing/requirements.txt",
+      "sha256": "d2c9c784ace5b890be23f5beaa215bdd83dc95142d76d7818488f21a89182a1c"
+    },
+    {
+      "archive": "5-multiple-test.zip",
+      "source": "6. multiple-test/slides/multiple-test-pbl.pptx",
+      "destination": "06-multiple-testing/slides/multiple-test-pbl.pptx",
+      "sha256": "c1872a9682e71debe9a7438e6668c193fba2d2df52dee2e9fcd821c3f689c667"
+    },
+    {
+      "archive": "5-multiple-test.zip",
+      "source": "6. multiple-test/student-worksheet.md",
+      "destination": "06-multiple-testing/student-worksheet.md",
+      "sha256": "96537c2ad223e0ca5b7f1ab64e4a7bd5c783ccaf913c1c27f9884855f10c85f3"
+    },
+    {
+      "archive": "5-multiple-test.zip",
+      "source": "6. multiple-test/teacher-reference.md",
+      "destination": "06-multiple-testing/teacher-reference.md",
+      "sha256": "3a851a1386354c63a2abefb87d9eadc91619f80fd752e9926bda8f3f0223252b"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/acute-inflammations.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/acute-inflammations.csv",
+      "sha256": "0ea6a3a26d194dce1bed40d33d25aaeec8407f3413a7529f2a6095740ac4b458"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/analysis-design.json",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/analysis-design.json",
+      "sha256": "f467a5603ea98237d1ecf490171d063bd2c6ef15c462f9824cb6a1989d80d7bf"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/computed-evidence.json",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/computed-evidence.json",
+      "sha256": "4a11c6e2c1b81894f4ce07eac1fe2b49a80e0ddc285086b27d8578b5932ba1ea"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/dataset-summary.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/dataset-summary.csv",
+      "sha256": "aa6f8a259eef224d40bb1639aa1e3bd606da4a078b3ed3a9080e9be9a2bf93a9"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/equation-bayes.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/equation-bayes.png",
+      "sha256": "3339b3b7242c74bd99d92966c7c4f31f3b20bb3ba730ad33366af7a706a34e1d"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/equation-bernoulli.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/equation-bernoulli.png",
+      "sha256": "a61d651d0267717b007cb98ec4b38daa008d7b0c58a0e0d44df9597c059ffd8c"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/equation-loss.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/equation-loss.png",
+      "sha256": "7f9975f32a6ad81ed77e59746edaff32fb3de590a19c99a462475cc2a2aa7543"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/equation-mse.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/equation-mse.png",
+      "sha256": "3fbc106a33f01a356d16fc92d2ea9141371f6e06dc6ca9c960214e655d97ce7b"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/main-result-clean-vs-audit.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/main-result-clean-vs-audit.png",
+      "sha256": "9e3b64ce803095e15a2c3fd40fa680af82c28d86352d294f008f00d8d885bf1f"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-a1.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-a1.csv",
+      "sha256": "aeae1a11f342d46884a6d1f99d42474a50823c22be542ff7a65de45fad292518"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-a2.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-a2.csv",
+      "sha256": "1c4fa25cc216fcfeb138adf1dffc56f435bad970a8da4cde1ceddecaa19a6872"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-a3.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-a3.csv",
+      "sha256": "206ea06e741a290cf429b07b422014a5731a10ce08b34d567b848d7dcd53a705"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-loss-contrast.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-loss-contrast.csv",
+      "sha256": "273fda89e6884011c646ab9b1c95d970868d117a879711ee8ae88c01d006463d"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-naive-bayes-parameters.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-naive-bayes-parameters.csv",
+      "sha256": "234de3043a30fccbef7d69335cfb9b39e4c4275b2f77b348ce3d34a031a17490"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-posterior-handcheck.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-posterior-handcheck.csv",
+      "sha256": "ab2b26ca2136fceb16622748ec19d0f880e263be74163597fd6ebaadc43c3a95"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-split-audit.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-split-audit.csv",
+      "sha256": "41780836f4739699c75a46e226efadfe3d8df22738aa0601812301cc44fcaa8f"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-threshold-path.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-threshold-path.csv",
+      "sha256": "6b8ed44b88ed100e46eefa642f1f88597fc69ff5c299c4d1a13921f0b72069a2"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-threshold-tradeoff.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-threshold-tradeoff.png",
+      "sha256": "bcdc5192f3072ac930577020e4930ae1a0737895870cc2ee1186926afc3556a4"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-validation-confusion-matrix.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-validation-confusion-matrix.png",
+      "sha256": "9e093b0de5d12fb743047230f199e6bfc02f84ee33e7b8afe775c426a70b407f"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-validation-metrics.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b-validation-metrics.csv",
+      "sha256": "9b71466fc85a8c88a7322766465c3235645578e79a00886e3c9f5ead8e7d5d58"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b1.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b1.csv",
+      "sha256": "32995d6151b9e35b8239551bd419b1fd939e4307cbbc6441c61b96bc03a0436a"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b2.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b2.csv",
+      "sha256": "867c9fae7aa3f2ee2f98969b822a4211534d411dc5fb6485241d798ad9851418"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b3.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b3.csv",
+      "sha256": "c72193e95b10fd445203d17eee276d296d01778a63c351442364324019aa016c"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b4.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b4.csv",
+      "sha256": "54e1e71b41b3c63b78630d56f1ca7cbe42abaafe1f40c094065f422baa8afc2c"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b5.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-b5.csv",
+      "sha256": "6c79a014bdffbad12d88a7aacdcadfade1bbe45359b2950bac41b26885fc9a44"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c-calibration-audit.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c-calibration-audit.png",
+      "sha256": "ea82b17aa5a3c025c095c561dfcab6ebe6f33e35ee9ee5c9a64417c93c61ccb1"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c-conditional-dependence.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c-conditional-dependence.csv",
+      "sha256": "07a6981efa83f51422362d7f900f2da196a7775f82429b8cd5fa60c023a29982"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c-conditional-dependence.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c-conditional-dependence.png",
+      "sha256": "524196e064f5f67c883a3cc526c0228621630df352a389671a9b627519eb0e0e"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c-duplicate-feature-audit.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c-duplicate-feature-audit.csv",
+      "sha256": "db3def724f5504767e2c3d24fac73ea82d559372bec340a8a70b0ab28be9ec3b"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c-duplicate-feature-shift.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c-duplicate-feature-shift.png",
+      "sha256": "92c83dad0115ee56438c6d115324d8304229e651b9c5b1941dccdc6f04d5bfa0"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c-probability-quality.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c-probability-quality.csv",
+      "sha256": "8a08325de430b46ed4202d0761a60ab60bea1c9816f41e68decb903b735ecd14"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c1.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c1.csv",
+      "sha256": "28a79af2483511903c088bc334da2d395a9874b1b7e353c63f2fc15680dd973f"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c2-ranking.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c2-ranking.png",
+      "sha256": "f3db0859ed6cee30b7eef056a5a51db550b861e5bf7e03c06014e6b059da66f0"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c3.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-c3.csv",
+      "sha256": "c2ca90ced5eb40212c5775c195bfb9be77a481d9f8be693f3c5714b0b8e36c79"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d-locked-test-confusion-matrix.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d-locked-test-confusion-matrix.png",
+      "sha256": "22e31a043641e2b5e089433bd2c5ee1700d6f7fa68bc9e28e54620dc5362c461"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d-locked-test-metrics.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d-locked-test-metrics.csv",
+      "sha256": "ba8e9e0d9e021dcbf46f69e7877ea02cfa76229f705cce32c235506662e9c65d"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d-measurement-error-stress.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d-measurement-error-stress.csv",
+      "sha256": "5689d87793db7a6569d6fc2c477639db0f2e57f6bb0d2ba5a7b0d99cfda61c3b"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d-measurement-error-stress.png",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d-measurement-error-stress.png",
+      "sha256": "f79643f377585b565f688e9ad080a1c3050589483f2d4f7e57e9467d3cf6e7b2"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d-reporting-checklist.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d-reporting-checklist.csv",
+      "sha256": "bddd8789d92353e568f4de1514f61222c62a97713e4ded3f51517b8675e45ccf"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d-wilson-ci.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d-wilson-ci.csv",
+      "sha256": "7ed282a5c21ced525dfc34c91c960376863db16b483c12c45ca622adb6235a30"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d1.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d1.csv",
+      "sha256": "22d48c2ebf318a2508635aaf845d88b74cb9c9ed176a79254964e151b50bd3a8"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d2.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d2.csv",
+      "sha256": "651e3bd8e1bda1e050188499d321eaf9231fe47190543814918b84fa028c7821"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d3.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d3.csv",
+      "sha256": "567312fa6554bdbd8dd44c464cf56e1ede62d221d19f64117d60888602042d93"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d4.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/packet-d4.csv",
+      "sha256": "8cd0c0a6d2fc122933a7c44f2367fdd56cfe17bc7aaddd72ca1e58444f9e3ac9"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/redundancy-all64.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/redundancy-all64.csv",
+      "sha256": "383453eeb8d4a5efe4bfbcb6c4e7e53bdac4bcb0a5873c87a8dcb829d4658088"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/split-indices.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/split-indices.csv",
+      "sha256": "f151526380a547edc14c09489b16cf395838d353e8f714f1550d1f091ebe549f"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/transfer-low-prevalence-precision.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/transfer-low-prevalence-precision.csv",
+      "sha256": "77c032c2426ef2b6b8b22c548f4505ec33c171cef0dbcb8a711dadb039c0dc19"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/transfer-nephritis-locked-test-metrics.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/transfer-nephritis-locked-test-metrics.csv",
+      "sha256": "65621e2fcb56266001e2bb4ceb51f3ab04454e19e596b6b3a79f91286bc85816"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/transfer-nephritis-validation-thresholds.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/transfer-nephritis-validation-thresholds.csv",
+      "sha256": "233eba2cccf7059d27d942b72d90d969602eca621ac3bea0e1901e49bcc3001e"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/assets/pbl-machine-learning-basics-naive-bayes/validation-predictions.csv",
+      "destination": "07-naive-bayes/assets/pbl-machine-learning-basics-naive-bayes/validation-predictions.csv",
+      "sha256": "9482c4ab4c619ae92ec84fe683f4f8862d76e56137cd5b93769a2655d51a9e25"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/data/raw/acute+inflammations.zip",
+      "destination": "07-naive-bayes/data/raw/acute+inflammations.zip",
+      "sha256": "066941c1a8352428f2d800f494581db9616dc4856e4109c98fa3bd1407e4a626"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/data/raw/early+stage+diabetes+risk+prediction+dataset.zip",
+      "destination": "07-naive-bayes/data/raw/early+stage+diabetes+risk+prediction+dataset.zip",
+      "sha256": "67594c0f11257688b57493798e70737b7156ba37a2e6ac75507ae3a35221a388"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/data/README.md",
+      "destination": "07-naive-bayes/data/README.md",
+      "sha256": "5766ea914963e01f7dd4fac214b87621ed588c2bb3e5763f816b71622f173d1a"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/data/student/locked-test-features.csv",
+      "destination": "07-naive-bayes/data/student/locked-test-features.csv",
+      "sha256": "94ce3d6e3ece5b6d1fa1519be709dfcdfd2fdbb9eacc4282f9639939c6ec84f4"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/data/student/train.csv",
+      "destination": "07-naive-bayes/data/student/train.csv",
+      "sha256": "6105ca8752f374028bf6d0c94eb006c187616d125af27e46d1096eb9bc5c1935"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/data/student/validation.csv",
+      "destination": "07-naive-bayes/data/student/validation.csv",
+      "sha256": "d29091f04a8a2230b8b2fd75b3e2eb25a33db0b5071e148028973526b2b820e1"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/data/teacher/locked-test-labels.csv",
+      "destination": "07-naive-bayes/data/teacher/locked-test-labels.csv",
+      "sha256": "c4dfbbc229a1f947509755f91e8ac400da2ea0be0910eb8ad43a32b18e192f10"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/data/teacher/split-manifest.json",
+      "destination": "07-naive-bayes/data/teacher/split-manifest.json",
+      "sha256": "c897d2dfff7cb4b41639c62f7f2417587c24a51e7ceb8ded6dad082705b9321e"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/DATASET-RECOMMENDATIONS.md",
+      "destination": "07-naive-bayes/DATASET-RECOMMENDATIONS.md",
+      "sha256": "93e3aca1c37187916f277827300c4f1f819a892d483c214901ba7a0d30eafa82"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/experiment-design.md",
+      "destination": "07-naive-bayes/experiment-design.md",
+      "sha256": "3394240cadcfa74ea10856526bbaedf458b62a19baf0296b589436eef1299a04"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/notebook/pbl-machine-learning-basics-naive-bayes-lab.ipynb",
+      "destination": "07-naive-bayes/notebook/pbl-machine-learning-basics-naive-bayes-lab.ipynb",
+      "sha256": "b113f2123707b3a10452a623e424c65fc9fbcbc4c28e65ba5a3d34082078d28b"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/notebooks/naive-bayes-lab.ipynb",
+      "destination": "07-naive-bayes/notebooks/naive-bayes-lab.ipynb",
+      "sha256": "8452fb8841e0294c076059150ec2db7049b98ab6a9ad46b1bbfdbaafd2796f1f"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/pbl-machine-learning-basics-naive-bayes-design-rationale.docx",
+      "destination": "07-naive-bayes/pbl-machine-learning-basics-naive-bayes-design-rationale.docx",
+      "sha256": "f14725954e46514290be60fb953a6bd44aabbdaf34fe4aff09be94700c1c98d8"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/pbl-machine-learning-basics-naive-bayes-evidence-pack.docx",
+      "destination": "07-naive-bayes/pbl-machine-learning-basics-naive-bayes-evidence-pack.docx",
+      "sha256": "2b13184511e50eba6e5242fb76f8a8320403d1a31cb60e2fdfea706d51e84b06"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/pbl-machine-learning-basics-naive-bayes-student-worksheet.docx",
+      "destination": "07-naive-bayes/pbl-machine-learning-basics-naive-bayes-student-worksheet.docx",
+      "sha256": "c70aeffb884609e89397bbff9c5ed6aa1454a53bf0228441f2d683b17adbada2"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/pbl-machine-learning-basics-naive-bayes-teaching-plan-flipped-classroom.docx",
+      "destination": "07-naive-bayes/pbl-machine-learning-basics-naive-bayes-teaching-plan-flipped-classroom.docx",
+      "sha256": "6ae2c48147951981a2818dc47ace99a132f76b901835eb9af90524b7f63597cd"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/README-20260917.md",
+      "destination": "07-naive-bayes/README-20260917.md",
+      "sha256": "19451d28c3692b18cf58c90c7b3eeb5c2774b0c41b8803bb66b53a4c468a05a8"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/README.md",
+      "destination": "07-naive-bayes/README-original.md",
+      "sha256": "3eb2e775d0b1ca3302c99404f0ce9149b777824fddac39daa09aefa4dee8001e"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/requirements.txt",
+      "destination": "07-naive-bayes/requirements.txt",
+      "sha256": "f63a8abbe529caf659c064c3b66994c897dc73aac6991557be1db0dfe039b469"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/scripts/audit_datasets.py",
+      "destination": "07-naive-bayes/scripts/audit_datasets.py",
+      "sha256": "cf20e012b3f9020962a6fff0527b246e241bb83a17428cfac0cd0f78b7586552"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/scripts/build_docx.py",
+      "destination": "07-naive-bayes/scripts/build_docx.py",
+      "sha256": "98fac5e524abdc02c1ccbdf5b7079815e033830c0661b73a04be745bdeff85a8"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/scripts/build_intro_slides.mjs",
+      "destination": "07-naive-bayes/scripts/build_intro_slides.mjs",
+      "sha256": "869c382e48f231beffabc925525b4d661179507c89b1041bdb0cab63067f7014"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/scripts/build_learning_materials.py",
+      "destination": "07-naive-bayes/scripts/build_learning_materials.py",
+      "sha256": "959b62db2cd04ff50aaeb6b9f85c87d1d402cb7ffa807b35cc2d3efc93a62d60"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/scripts/lab_utils.py",
+      "destination": "07-naive-bayes/scripts/lab_utils.py",
+      "sha256": "e8e35a498d4028dce6809832cf6d0a05812bdf4b338d57fc5fd0b777ad4a62f9"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/scripts/lesson7_analysis.py",
+      "destination": "07-naive-bayes/scripts/lesson7_analysis.py",
+      "sha256": "8a9e2e8717fc35756bf7770b9f10082a82881b0341e9fae9f965322eb96b789e"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/scripts/pbl-machine-learning-basics-naive-bayes-build.py",
+      "destination": "07-naive-bayes/scripts/pbl-machine-learning-basics-naive-bayes-build.py",
+      "sha256": "e805b7e2da7acc839b9f3accb03d0b0882a186a388840cfee2fd41573a830274"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/scripts/prepare_data.py",
+      "destination": "07-naive-bayes/scripts/prepare_data.py",
+      "sha256": "533ff7666f413ff517ff57eb0ca8f065e576333adc280b54fbb977e1367bf2b6"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/scripts/release_qa.py",
+      "destination": "07-naive-bayes/scripts/release_qa.py",
+      "sha256": "408fb1371dcc4b79f871169846b224b57bf5e8413b56f08c8b15c801cdff9d13"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/scripts/teacher_analysis.py",
+      "destination": "07-naive-bayes/scripts/teacher_analysis.py",
+      "sha256": "494a5b178983ea05c3aade8cdaeacd170ba4aa840582d17dd7bf12b41e2e8194"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/slides/naive-bayes-experiment-intro.pptx",
+      "destination": "07-naive-bayes/slides/naive-bayes-experiment-intro.pptx",
+      "sha256": "89ddd3d25cfffc3e807963b20cfc4a721f9df920658670a799f9c70dad7583e5"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/student-worksheet.md",
+      "destination": "07-naive-bayes/student-worksheet.md",
+      "sha256": "583f0bcf154aa84535fe389f1bf8dd07b96449391cdeda057f3a4cb63a99246f"
+    },
+    {
+      "archive": "6.Naive-Bayes.zip",
+      "source": "7. Naive-Bayes/teacher-reference.md",
+      "destination": "07-naive-bayes/teacher-reference.md",
+      "sha256": "4ecc6283866d54104e3be6e316d8ffb059fb09d873ba31a5b8a654f74fc20ea5"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/analysis-design.json",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/analysis-design.json",
+      "sha256": "168fb9971b39989e05bd13f0330c9f2261b84f7a6f3db6649d344351ffd2812d"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/concept-logistic-lda-intuition.png",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/concept-logistic-lda-intuition.png",
+      "sha256": "100fb6703d5966d93690ff1bb7c1353269f59180952432a30ed9f5fb9a4fb898"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/dataset-source-and-license.md",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/dataset-source-and-license.md",
+      "sha256": "3ecda7cf2b0f88f15c1c2c1b86e06f89914161e75981618923b5094e43c44e1c"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/dataset-summary.csv",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/dataset-summary.csv",
+      "sha256": "7d2e9416bc6210fa3e2bdb23f610d145295c2e49b9d3b139f022dc27d5d8b1e1"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/main-result-linear-models.png",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/main-result-linear-models.png",
+      "sha256": "1cc0c25ba31921d0c7dab6994f0cdfb6bf6be169794334761aaea93e5508ef53"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-a-data-dictionary.csv",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-a-data-dictionary.csv",
+      "sha256": "b518942b034ed5ad6cd3c3b25a1f11244eb5fe66a6f39e02225687fb8eecc847"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-b-model-comparison.csv",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-b-model-comparison.csv",
+      "sha256": "3de3406b594a42a151f731d2ac98d2707b9ca6d81fe8baf072a9e488021741eb"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-b-model-comparison.png",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-b-model-comparison.png",
+      "sha256": "90e4e65297d462c17dd96ee8bebaedd234a07a69dc8598fd30a2b056976cb366"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-b-repeated-cv.csv",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-b-repeated-cv.csv",
+      "sha256": "ea8927710bf2890a64fef5feb097e6d1c7b49d34e7d8f83bb6257a4a8f9e012f"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-c-assumption-audit.csv",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-c-assumption-audit.csv",
+      "sha256": "e140677bbb344a1251a3f49e28f8f1bed2665976ef6a57aa47d49b4f43074dcd"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-c-coefficients-and-thresholds.png",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-c-coefficients-and-thresholds.png",
+      "sha256": "3463e4f2841383dc99fe83e3b2fb16af079c370603bc3a8ef3bce05c532fffd1"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-c-collinearity-stress-test.csv",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-c-collinearity-stress-test.csv",
+      "sha256": "79c23efc49787662da99b178193ff0ae813dbdf0053265cf84d674e0cdbbf5d3"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-c-logistic-coefficients.csv",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-c-logistic-coefficients.csv",
+      "sha256": "f4b877eb144c2223b42884e5b54f01b2233cead58aff38999a3e305147020213"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-c-threshold-audit.csv",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-c-threshold-audit.csv",
+      "sha256": "86979fd08a942ecb44cfc67422ab52d57bfa943289088fac557d8dc760f94c4a"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-d-bootstrap-ci.csv",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-d-bootstrap-ci.csv",
+      "sha256": "71453eb5957304fccaf50236163a2a1f89c66abeeacf899df8d529dd224e8fa5"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-d-locked-test.csv",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-d-locked-test.csv",
+      "sha256": "e46e03faef0bd9935634837ae356a053ae19c3349340b65dc2e5a50e7f1444b8"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-d-roc-calibration-confusion.png",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/packet-d-roc-calibration-confusion.png",
+      "sha256": "ff7ec270a941c3615587b27896c689668c1e6fde510fb951e605a7b375cc807f"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/assets/pbl-linear-models-lda-logistic-regression/statlog-heart.csv",
+      "destination": "08-linear-models/assets/pbl-linear-models-lda-logistic-regression/statlog-heart.csv",
+      "sha256": "16500a1f28cd6e9d2ab346182327b42ce0d9b76ae75f3d94c16382599cc7d152"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/data/heart.csv",
+      "destination": "08-linear-models/data/heart.csv",
+      "sha256": "6b8a44d8e5623d899703dff71267019b47bfb3282ef85c422c14b133c700a29d"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/data/README.md",
+      "destination": "08-linear-models/data/README.md",
+      "sha256": "2b5f3fcf61e9b814c183d7b27456812bfa38842003a9abc281fbb06817a349e3"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/experiment-design.md",
+      "destination": "08-linear-models/experiment-design.md",
+      "sha256": "06b23a6784eb96820c5f66dff1c2cf93ee05cea3235835fd7a5a4a9b17ce1a57"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/notebook/pbl-linear-models-lda-logistic-regression-lab.ipynb",
+      "destination": "08-linear-models/notebook/pbl-linear-models-lda-logistic-regression-lab.ipynb",
+      "sha256": "e75b3ebc829120c2d0c7c104d948135a6d526305dacf59110df8d414a6274303"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/notebooks/linear-models-lab.ipynb",
+      "destination": "08-linear-models/notebooks/linear-models-lab.ipynb",
+      "sha256": "fda932e2b0fffacf1ac1f32e815d59d5898cd0c5ca36aa2462523af3517a8a88"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/README.md",
+      "destination": "08-linear-models/README-original.md",
+      "sha256": "3c101c06b85021084c9b86042d1d582b7efe5fd0b52aed545aa90ba6b6805a8e"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/requirements.txt",
+      "destination": "08-linear-models/requirements.txt",
+      "sha256": "1bca29ea053b9cb6c0a59e34924a29f56e5968e6257fe35c8aaae9d433ded19e"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/scripts/build_slides.mjs",
+      "destination": "08-linear-models/scripts/build_slides.mjs",
+      "sha256": "cf77fc5fe6a3faf79bcede20ac98ce83353b72c2d7610104bed52a850614b0c8"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/scripts/teacher_analysis.py",
+      "destination": "08-linear-models/scripts/teacher_analysis.py",
+      "sha256": "9f135d485591c00f115d299dfdc61497b9ffb5dad6363eef95fb4df85365011f"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/slides/linear-models-pbl-intro.pptx",
+      "destination": "08-linear-models/slides/linear-models-pbl-intro.pptx",
+      "sha256": "e463f5f3cfe617d4d8ac386d6a2d6e31e2342bb47b6543168d1ed07c6b07fa0a"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/student-worksheet.md",
+      "destination": "08-linear-models/student-worksheet.md",
+      "sha256": "0a8f7c7dff3c0e86426169aaf8b00a32fa9211e2c5bd47c403e5d3356227253b"
+    },
+    {
+      "archive": "7. Linear-models (1).zip",
+      "source": "8. Linear-models/teacher-reference.md",
+      "destination": "08-linear-models/teacher-reference.md",
+      "sha256": "404b606d70e82a38e59b24278e2274efa057f19578a9e863fb45e309637c19b3"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/analysis-design.json",
+      "destination": "09-svm/assets/pbl-svm-margin/analysis-design.json",
+      "sha256": "562a738cc252031f8962a74b9ba069221ad93a5ff77caf32273075de6141a519"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/data-audit.json",
+      "destination": "09-svm/assets/pbl-svm-margin/data-audit.json",
+      "sha256": "c95a14f586dc87f9f14057375f013bb19f88b2f0821861485d35946971e75bec"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/dataset-summary.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/dataset-summary.csv",
+      "sha256": "216b7596aebed8b2932cd7f30827b0224444c682309796fa2733c6cda2a58a61"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/environment.json",
+      "destination": "09-svm/assets/pbl-svm-margin/environment.json",
+      "sha256": "984eb9a733a694c589309f5f679f336b186909e85278623e37a2385ad902901a"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/figure-b1.png",
+      "destination": "09-svm/assets/pbl-svm-margin/figure-b1.png",
+      "sha256": "6d0e865a14204db42efd0f2cac3222ac3c8ceb659f6b093186e687c78f29ac91"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/figure-c1.png",
+      "destination": "09-svm/assets/pbl-svm-margin/figure-c1.png",
+      "sha256": "8413e4c8f0296bc2f21662cd4716fa29b2a1108824ef8b6113d2df227ecc65f9"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/figure-c2.png",
+      "destination": "09-svm/assets/pbl-svm-margin/figure-c2.png",
+      "sha256": "c72f7f4ab84fb3707f190f6e39a1c6bfa16df8a5455fb9765aed5679fc170f06"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/figure-d1.png",
+      "destination": "09-svm/assets/pbl-svm-margin/figure-d1.png",
+      "sha256": "1b691228b1d554f5e3caae92ac2362af59efe40eaeeebec5834e96ac123b726b"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/figure-s1.png",
+      "destination": "09-svm/assets/pbl-svm-margin/figure-s1.png",
+      "sha256": "593849d54180855abdab029470c09f5b3b96e5eb9cd6a3676ff06bf2ede1d48a"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/packet-a-audit.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/packet-a-audit.csv",
+      "sha256": "10def2512bad72210f2ec0e7c158ac23935e1559b7079a6b9106f92bd4c62d28"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/packet-a-six-points.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/packet-a-six-points.csv",
+      "sha256": "70355815629dbb4abd938d746f4a109a47c90031998fb5ba12675663a90d46c8"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/packet-b-removal.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/packet-b-removal.csv",
+      "sha256": "f66fae05a745602fbcccb5e047b1c8062b5277e45c6fdef181ee7202cf2a57bb"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/packet-b-simulation.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/packet-b-simulation.csv",
+      "sha256": "06e13d2e845fad2dd2e8b448535902b7465cccd8fc84ed4b00f449e2acd9a85e"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/packet-c-contrast.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/packet-c-contrast.csv",
+      "sha256": "73f8286b0192267c2aa9e4d34de1a7d0ca2ccf8d2065ff13f2494a9659a81182"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/packet-c-real-grid.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/packet-c-real-grid.csv",
+      "sha256": "07e5a9734cc1997a9a1e9618fec43a8f51dccac97b2edb329965641fa0ef5049"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/packet-c-selected.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/packet-c-selected.csv",
+      "sha256": "0800c26f2e6772c28b85595206d12b96785917b4b356c316889f9090c14880d2"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/packet-d-scale.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/packet-d-scale.csv",
+      "sha256": "7ffa516ba82eaf135f8b6c67202e23f05bb3307e47b174e2953b1518e5a8005e"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/packet-d-stress.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/packet-d-stress.csv",
+      "sha256": "b725761158fe2a109aa4b809aeef36042a66ebf324840e6237804c3e8f2f5a19"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/packet-d-test.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/packet-d-test.csv",
+      "sha256": "e2ee8fd55000e7454612c4ba5656fa8a89a8f3410c5cbeeae411920c650e2fae"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/simulation.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/simulation.csv",
+      "sha256": "195ae14f944482db865dcc965497caa83104006d677712a8df57d8e1a5b2a6c1"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/source-data/column_2C.dat",
+      "destination": "09-svm/assets/pbl-svm-margin/source-data/column_2C.dat",
+      "sha256": "79cab246a0d4a1863c27095e30729aea5ce2b5e7241e5c01d7e31a55173cf6d2"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/source-data/column_2C_weka.arff",
+      "destination": "09-svm/assets/pbl-svm-margin/source-data/column_2C_weka.arff",
+      "sha256": "2a9b58f5ff0d13843c17a2e6dcabd1866904fc6bc975d40f860fce3d2ec085da"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/source-data/column_3C.dat",
+      "destination": "09-svm/assets/pbl-svm-margin/source-data/column_3C.dat",
+      "sha256": "fb5fc4ae49d9f2586158f3368058309364ec3153954cd2ff01fb15d739fe552f"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/source-data/column_3C_weka.arff",
+      "destination": "09-svm/assets/pbl-svm-margin/source-data/column_3C_weka.arff",
+      "sha256": "cf768854cf4cf42b3a3b792a239a81ebfd4fbfafc25fbe2a19d15b3f73249879"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/source-data/vertebral-column.zip",
+      "destination": "09-svm/assets/pbl-svm-margin/source-data/vertebral-column.zip",
+      "sha256": "899ed1d137ceb4c36d59fa35f3cbab39ec3b78fd3ca1fdaf2fae155459c1372f"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/split.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/split.csv",
+      "sha256": "23dd2ae44933edd4774498317b7dd70eebee1603b9ed29b88a0c10b74d65f9c9"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/assets/pbl-svm-margin/vertebral-column.csv",
+      "destination": "09-svm/assets/pbl-svm-margin/vertebral-column.csv",
+      "sha256": "213d650136f7b6a3da21fc3c7256b912a0ed4063d12be5ecbe79628054471a37"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/data/raw/field-definitions.txt",
+      "destination": "09-svm/data/raw/field-definitions.txt",
+      "sha256": "96d48d5619dc7ddc1b478ac18aa2c76240098353a62a18ac6345241836c2b921"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/data/raw/vertebral-column.zip",
+      "destination": "09-svm/data/raw/vertebral-column.zip",
+      "sha256": "899ed1d137ceb4c36d59fa35f3cbab39ec3b78fd3ca1fdaf2fae155459c1372f"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/data/README.md",
+      "destination": "09-svm/data/README.md",
+      "sha256": "78badf6a80fa2ffdb796645709f64a964d4793852f55e4b346df1e415c205e3e"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/data/student/locked-test-features.csv",
+      "destination": "09-svm/data/student/locked-test-features.csv",
+      "sha256": "500751762a36ce50f9c4c4cc55139c27601346c2a4c85789c3b855523d58e58d"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/data/student/train.csv",
+      "destination": "09-svm/data/student/train.csv",
+      "sha256": "bffc890a0dcfde5769fb7185648e001275eaa0d6196943af872e31722dba4648"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/data/student/validation.csv",
+      "destination": "09-svm/data/student/validation.csv",
+      "sha256": "3aaa7522fdb7df04ed8bfadb6d3ed3a52b6b9db6c8bb72d4d23970f49ad6413d"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/data/teacher/all-measurements.csv",
+      "destination": "09-svm/data/teacher/all-measurements.csv",
+      "sha256": "b659fc75eccf7ee03c9c530f08c55f8c4fbd78fcb23f4a4d00a85d9626899358"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/data/teacher/locked-test-labels.csv",
+      "destination": "09-svm/data/teacher/locked-test-labels.csv",
+      "sha256": "53b66185f8e6699b81446cbc69c94a33ea587ea54482203ce2c4a19d193282f7"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/data/teacher/split-manifest.json",
+      "destination": "09-svm/data/teacher/split-manifest.json",
+      "sha256": "572f8bd8ca979dc244d8021dd12b5caabefb8197b882e109f1470ad321a50470"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/experiment-design.md",
+      "destination": "09-svm/experiment-design.md",
+      "sha256": "7f0ddcceb4f566c5cb7654cc62231e0986e17e714e9985b0981b5d56138774de"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/notebook/pbl-svm-margin-lab.ipynb",
+      "destination": "09-svm/notebook/pbl-svm-margin-lab.ipynb",
+      "sha256": "550ed8e09a1a0c85d58ab20cf50f0d46b813cf4bfb1e9d2ee5684b5295c40564"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/pbl-svm-margin-design-rationale.docx",
+      "destination": "09-svm/pbl-svm-margin-design-rationale.docx",
+      "sha256": "9db959b335004f65f501f0b9348d253a0b07840494ba5d41fb7818c8c6439c32"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/pbl-svm-margin-evidence-pack.docx",
+      "destination": "09-svm/pbl-svm-margin-evidence-pack.docx",
+      "sha256": "e461a5870ab5675bd5e15ff3a2f10511d6ee5d381bfd3774d9b378804d596d29"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/pbl-svm-margin-student-worksheet.docx",
+      "destination": "09-svm/pbl-svm-margin-student-worksheet.docx",
+      "sha256": "387706f1883294bfaf7b80b5cd20538a65142086bfd5fbc13dc1eefe02ebbfe9"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/pbl-svm-margin-teaching-plan-flipped-classroom.docx",
+      "destination": "09-svm/pbl-svm-margin-teaching-plan-flipped-classroom.docx",
+      "sha256": "3ca8a02f5f14d038958a7c725c499ca5316595ce0c1f040c24a2f1ea97b9cc52"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/README.md",
+      "destination": "09-svm/README-original.md",
+      "sha256": "087f9e28234797a042343082e2a9fa88e5f82ea5c3bcd53dd931fde3cb1dfc38"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/requirements.txt",
+      "destination": "09-svm/requirements.txt",
+      "sha256": "ae630d46076c26a8641bf5e7f7fe97de5415fb0c99a064d3af8eb2fbeb69c71c"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/scripts/build_notebook.py",
+      "destination": "09-svm/scripts/build_notebook.py",
+      "sha256": "e6d3ea218942c7c4e56a26277b2d01a1356eeeff68fbaef39eca0295a38768e2"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/scripts/build_slides.mjs",
+      "destination": "09-svm/scripts/build_slides.mjs",
+      "sha256": "5512a0ac4fbbd8ad5bf7248799b80394380b4ef1f8bf931316b8dd53fc9c2d09"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/scripts/finalize-qa.py",
+      "destination": "09-svm/scripts/finalize-qa.py",
+      "sha256": "d2c1c0aeed85277177721e6e0c095284842aad07dce95d61bf4a1d8481d3e343"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/scripts/lab_utils.py",
+      "destination": "09-svm/scripts/lab_utils.py",
+      "sha256": "80953558e31e82951efd32d11726e81d4ea725e98afd962c44b8779c6eaf2aa2"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/scripts/pbl-svm-margin-build.py",
+      "destination": "09-svm/scripts/pbl-svm-margin-build.py",
+      "sha256": "a37c13568583470d20229e812ab855841a113664b1d3d4c940ef0c8fd1bba1cc"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/scripts/prepare_data.py",
+      "destination": "09-svm/scripts/prepare_data.py",
+      "sha256": "39d0f3d1d223b3ba6fd475d5ab524b7b688d324c2927f1ca5df35257cfc51980"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/scripts/qa-artifacts.py",
+      "destination": "09-svm/scripts/qa-artifacts.py",
+      "sha256": "499edc4b7e5176cb7ab83c6e3ccaf1086ba35b4b9d5e17345095cdadfe057a6f"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/scripts/render-word.ps1",
+      "destination": "09-svm/scripts/render-word.ps1",
+      "sha256": "7b22e77e77ad957f0b2b88437ce905e6b13d4ec5056d2c0674637225e1e92fe0"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/scripts/teacher_analysis.py",
+      "destination": "09-svm/scripts/teacher_analysis.py",
+      "sha256": "de90fa3ba9283d569bb2995a64daa0b02b2b6a77855a3aaf6302378b702c9e0f"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/slides/svm-pbl-intro.pptx",
+      "destination": "09-svm/slides/svm-pbl-intro.pptx",
+      "sha256": "eb359590f81183c51fc5c0891b726017fdd81aaac59927c895dbcebf27c6b8a7"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/student-release/01-启动与追踪表.docx",
+      "destination": "09-svm/student-release/01-启动与追踪表.docx",
+      "sha256": "3fceac1998194d2c7a0445fd7118f934d552f1d9acbcf3f85b31bad12ba9feb3"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/student-release/02-Packet-A.docx",
+      "destination": "09-svm/student-release/02-Packet-A.docx",
+      "sha256": "267bd712bfdb7e7284c532aab80f2fb9b198281488eb3436f116ad660b3415bd"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/student-release/03-Packet-B.docx",
+      "destination": "09-svm/student-release/03-Packet-B.docx",
+      "sha256": "ca8a06e4b645b3adc4103fed9eaf672fb5c2b3da06c5d1a58945e13dc683a70f"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/student-release/04-Packet-C.docx",
+      "destination": "09-svm/student-release/04-Packet-C.docx",
+      "sha256": "327cc6da72813f6d55a3c5e160732bf5533f6ebd94e4dbfc97e43889566a5464"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/student-release/05-Packet-D与综合.docx",
+      "destination": "09-svm/student-release/05-Packet-D与综合.docx",
+      "sha256": "6a68a6fd2df4e2fb30e0ad34bd486383f944d76698123f8fc00add9d1293295e"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/student-release/06-翻转课堂与入口.docx",
+      "destination": "09-svm/student-release/06-翻转课堂与入口.docx",
+      "sha256": "2a6ede4ff1732e602ba74e56e11f075916a8ee0b2e440545c88086b06e4dbf9e"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/student-worksheet.md",
+      "destination": "09-svm/student-worksheet.md",
+      "sha256": "28a57fed71dc29dff2bc185c7bc411fedc02ac598e3c7e1efc69325704a578ad"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/svm-lab.ipynb",
+      "destination": "09-svm/svm-lab.ipynb",
+      "sha256": "14e1c0acf73d8833de7ff2a1dbfd83e552be654d0111bbabf38076705b2bd851"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/svm.md",
+      "destination": "09-svm/svm.md",
+      "sha256": "c4fbd9ac5cb64b02b8294c1c8f04ee109895869eaca4b61cc4fc19cebfb06fe5"
+    },
+    {
+      "archive": "9. SVM (1).zip",
+      "source": "9. SVM/teacher-reference.md",
+      "destination": "09-svm/teacher-reference.md",
+      "sha256": "9a08cee7131f31cbccb426965ad534c6155e815255da26a82f02419a03b618d6"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data/README.md",
+      "destination": "10-ensemble/data/README.md",
+      "sha256": "655ebd2af1a87cfa5186e7add81f7c87570d4243e4d8a59d28790b3679b8629e"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data/student/locked-test-features.csv",
+      "destination": "10-ensemble/data/student/locked-test-features.csv",
+      "sha256": "6a9dd95399f3cb8a40e11db070b9d0cf9a2c283f0c67ef62d9002270b9884d50"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data/student/train.csv",
+      "destination": "10-ensemble/data/student/train.csv",
+      "sha256": "37214ac7e40fcbe336e3f8d0b3567bd979d22ed7d734ce592b3d171ce05608b7"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data/student/validation.csv",
+      "destination": "10-ensemble/data/student/validation.csv",
+      "sha256": "8df3d9aa50c9ab55b18ab9f2f0d87e17c12c4d1c4b8a53126644a25f2d9d809f"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data/teacher/all-measurements.csv",
+      "destination": "10-ensemble/data/teacher/all-measurements.csv",
+      "sha256": "9a8524bf52556292e1a0335890211677959f05d5257975b60758e1aa5bbbbc27"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data/teacher/locked-test-labels.csv",
+      "destination": "10-ensemble/data/teacher/locked-test-labels.csv",
+      "sha256": "922145ab823216fba3f2e300adb73ca0f5daefa50a7ae56bec64abd5d57bc8e5"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data/teacher/split-manifest.json",
+      "destination": "10-ensemble/data/teacher/split-manifest.json",
+      "sha256": "3c08ffbad661a89711e9ee07b171d0fd1470d0a8f3906bfef1b209a825c261a2"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data-ctg/raw/cardiotocography.zip",
+      "destination": "10-ensemble/data-ctg/raw/cardiotocography.zip",
+      "sha256": "ba2853564e282779907242b7bd8a83265d9fc4e79bb008573967daa16677bb6c"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data-ctg/README.md",
+      "destination": "10-ensemble/data-ctg/README.md",
+      "sha256": "5c7dee656ae02b3de27b6b40e8ac1213d794a3b2a113e7a89397474b761ad40f"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data-ctg/student/locked-test-features.csv",
+      "destination": "10-ensemble/data-ctg/student/locked-test-features.csv",
+      "sha256": "fcecb4464dcb48ad1adfe15bb9a3e47025348b7480d8042eb84c4bcd6e5e6b69"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data-ctg/student/train.csv",
+      "destination": "10-ensemble/data-ctg/student/train.csv",
+      "sha256": "322985b0949b8e6fea7194ef33a90f89887145eaea7089d045fb65b11ac7cf32"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data-ctg/student/validation.csv",
+      "destination": "10-ensemble/data-ctg/student/validation.csv",
+      "sha256": "39e2c11fca58d7102d7b1047bbcd4dd96709452bc6bfbefb67bb1609fd910115"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data-ctg/teacher/all-measurements.csv",
+      "destination": "10-ensemble/data-ctg/teacher/all-measurements.csv",
+      "sha256": "8859829d2dd0430f3e8c1c7a317c79e77e4a8d8676e2bb1591f5a5e3e2a311ef"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data-ctg/teacher/locked-test-labels.csv",
+      "destination": "10-ensemble/data-ctg/teacher/locked-test-labels.csv",
+      "sha256": "598b34447757e1831d54bdd07d3060b2f07ecf3a00f117a75a104b686ac4de41"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/data-ctg/teacher/split-manifest.json",
+      "destination": "10-ensemble/data-ctg/teacher/split-manifest.json",
+      "sha256": "41c3a9e211d57880a971d5184af00b6967ac9dd4f4345d4f12bd35d9f8751974"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/README.md",
+      "destination": "10-ensemble/README-original.md",
+      "sha256": "17ee4f56f6d0512b011c0c9cbee1f13857e395b26b97f5be0beb5b883559015b"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/requirements.txt",
+      "destination": "10-ensemble/requirements.txt",
+      "sha256": "8d352e61643f366f018ef278bc5f7809f6ad577b51b68f153ab5dc827ec17ff2"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/scripts/build_slides.mjs",
+      "destination": "10-ensemble/scripts/build_slides.mjs",
+      "sha256": "c170bee1322c6d28a04b40cb7f804f4295fa67b0522e0fbcfe204f84acf1ce1a"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/scripts/demo_ensemble.py",
+      "destination": "10-ensemble/scripts/demo_ensemble.py",
+      "sha256": "405d95601ddb1a614af2addfc3e34a51f9a6defe45a2313b99c922e35956e3ad"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/scripts/prepare_data.py",
+      "destination": "10-ensemble/scripts/prepare_data.py",
+      "sha256": "81f11245dd5922ccf2662beed1bf8140e8e93f38b9fa436394b6f2a1f6cb9d53"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/scripts/prepare_data_ctg.py",
+      "destination": "10-ensemble/scripts/prepare_data_ctg.py",
+      "sha256": "653a5497b9058d9fbd1af4bc2453a64a081d319e4a6e6187b015528a322ef33d"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/slides/ensemble-pbl.pptx",
+      "destination": "10-ensemble/slides/ensemble-pbl.pptx",
+      "sha256": "bb18ce7c355f23bb0536f38284501bd5b7b30ba45a2c48c940dc4fcc896c8df3"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/student-worksheet.md",
+      "destination": "10-ensemble/student-worksheet.md",
+      "sha256": "093e1cdbc6510a46a32610a64bd5d8d6385ab918e7dcc6e61b804c0cb1f53371"
+    },
+    {
+      "archive": "9. Ensemble (1).zip",
+      "source": "10. Ensemble/teacher-reference.md",
+      "destination": "10-ensemble/teacher-reference.md",
+      "sha256": "6d66a19ee7a3f39869474e5a45b6914f7bdc7c5a0ddc2899a1da790b28641539"
+    }
+  ],
+  "excluded_count": 450,
+  "excluded_categories": [
+    "planning/review 制作与审核文件",
+    "隐藏文件、缓存、字节码",
+    "制作计划和原包 manifest"
+  ]
+}

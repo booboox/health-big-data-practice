@@ -1,0 +1,13 @@
+{
+  "sklearn": "1.9.1",
+  "seed": 1010,
+  "n_estimators": 100,
+  "max_features": "sqrt",
+  "permutation_repeats": 50,
+  "scoring": "roc_auc",
+  "permutation_sd_ddof": 0,
+  "baseline_validation_auc": 0.9970520799213888,
+  "correlation_data": "training only",
+  "high_correlation_pair_count": 21,
+  "test_set_used": false
+}
